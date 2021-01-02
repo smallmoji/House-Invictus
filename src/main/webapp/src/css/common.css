@@ -1,0 +1,23 @@
+.flex-center-content {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.textfield{
+  margin-bottom: 1rem;
+}
+.gold-button{
+  background-color: #CBAE39;
+  border: none;
+  padding: .5rem;
+  width: 100%;
+  border-radius: .30rem;
+  margin-top: .5rem;
+  cursor: pointer;
+  transition: all .2s ease-in;
+}
+.gold-button:hover{
+  background-color: #bd9f27;
+}

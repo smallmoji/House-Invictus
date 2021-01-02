@@ -1,0 +1,24 @@
+.login-wrapper{
+  height:100vh;
+  transition: background-color .5s ease-in-out;
+}
+
+.landing-page{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: all .5s ease-in-out;
+  opacity:9;
+}
+
+.login-form{
+  text-align: center;
+}
+
+.lion-button{
+  cursor: pointer;
+  transition: opacity .5s ease-in-out;
+  margin-bottom: 10px;
+}
